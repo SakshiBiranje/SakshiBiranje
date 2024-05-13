@@ -12,8 +12,8 @@ I work with [SUDARSHAN JADHAV](https://github.com/SUDARSHAN9171) on various proj
 C, C++, JAVA, Python, OOP, DSA, Web Development(Frontend). <br/><br/>
 💭 **Fun fact about me :** <br/>
 I like to use Dark Humor in my codes.<br/><br/>
-[![](https://github-readme-stats.vercel.app/api?username=SUDARSHAN9171&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)<br/><br/>
-[![](https://github-readme-stats.vercel.app/api?username=SUDARSHAN9171&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)<br/><br/>
+[![](https://github-readme-stats.vercel.app/api?username=SakshiBiranje&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)<br/><br/>
+[![](https://github-readme-stats.vercel.app/api?username=Sakshibiranje&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)<br/><br/>
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
