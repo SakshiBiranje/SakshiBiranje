@@ -1,7 +1,7 @@
 # 👋 Hi, I'm SAKSHI!
 
 🧑🏻‍💼 **Myself :**<br/>
- A.I.M.L Enthusias sharing about my journey and learnings in tech.<br/><br/>
+ A.I.M.L Enthusiast sharing about my journey and learnings in tech.<br/><br/>
 👩🏻‍💻 **Education :**<br>
 Studing Computer Engineering in Artificial-intelligence at D.K.T.E. Textile & Engineering College Ichalkaranji.<br/><br/>
 🧠 **About Me :**<br>
@@ -42,7 +42,7 @@ I like to use Dark Humor in my codes.<br/><br/>
 
 
 # 🌐 My References 
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/sudarshan9171)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/SakshiBiranje)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/SUDARSHAN0010)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/sudarshanjadhav9171/)
 [![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@sudarshanjadhav9171)
