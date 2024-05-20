@@ -1,7 +1,7 @@
 # 👋 Hi, I'm SAKSHI!
 
-🧑🏻‍💼 **Myself :**<br/>
- A.I.M.L Enthusiast sharing about my journey and learnings in tech.<br/><br/>
+👩‍💼 **Myself :**<br/>
+A.I.M.L Enthusiast sharing about my journey and learnings in tech.<br/><br/>
 👩🏻‍💻 **Education :**<br>
 Studing Computer Engineering in Artificial-intelligence at D.K.T.E. Textile & Engineering College Ichalkaranji.<br/><br/>
 🧠 **About Me :**<br>
@@ -10,11 +10,6 @@ Queries to learn new tech and do project.<br/><br/>
 I work with [SUDARSHAN JADHAV](https://github.com/SUDARSHAN9171) on various project and studies.<br/><br/>
 🗣️ **Ask Me About :**<br/>
 C, C++, JAVA, Python, OOP, DSA, Web Development(Frontend). <br/><br/>
-💭 **Fun fact about me :** <br/>
-I like to use Dark Humor in my codes.<br/><br/>
-[![](https://github-readme-stats.vercel.app/api?username=SakshiBiranje&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)<br/><br/>
-[![](https://github-readme-stats.vercel.app/api?username=Sakshibiranje&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)<br/><br/>
-
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
