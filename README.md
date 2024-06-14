@@ -7,7 +7,7 @@ Studing Computer Engineering in Artificial-intelligence at D.K.T.E. Textile & En
 🧠 **About Me :**<br>
 Queries to learn new tech and do project.<br/><br/>
 👫 **Project Partner :**<br>
-I work with [SUDARSHAN JADHAV](https://github.com/SUDARSHAN9171) on various project and studies.<br/><br/>
+I work with [SUDARSHAN JADHAV](https://github.com/SUDARSHAN2171) on various project and studies.<br/><br/>
 🗣️ **Ask Me About :**<br/>
 C, C++, JAVA, Python, OOP, DSA, Web Development(Frontend). <br/><br/>
 # 💻 Tech Stack
