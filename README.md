@@ -1,15 +1,21 @@
 # 👋 Hi, I'm SAKSHI!
-
+<!--SPRX77-->
+<!--If anyone trys to copy this code its will turn out to be very bad for you-->
 👩‍💼 **Myself :**<br/>
 A.I.M.L Enthusiast sharing about my journey and learnings in tech.<br/><br/>
+<!--SPRX77-->
 👩🏻‍💻 **Education :**<br>
 Studing Computer Engineering in Artificial-intelligence at D.K.T.E. Textile & Engineering College Ichalkaranji.<br/><br/>
+<!--SPRX77-->
 🧠 **About Me :**<br>
 Queries to learn new tech and do project.<br/><br/>
+<!--SPRX77-->
 👫 **Project Partner :**<br>
 I work with [SUDARSHAN JADHAV](https://github.com/SUDARSHAN2171) on various project and studies.<br/><br/>
+<!--SPRX77-->
 🗣️ **Ask Me About :**<br/>
 C, C++, JAVA, Python, OOP, DSA, Web Development(Frontend). <br/><br/>
+<!--SPRX77-->
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -35,6 +41,7 @@ C, C++, JAVA, Python, OOP, DSA, Web Development(Frontend). <br/><br/>
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)<br/><br/>
 
+<!--SPRX77-->
 
 # 🌐 My References 
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/SakshiBiranje)
@@ -46,13 +53,15 @@ C, C++, JAVA, Python, OOP, DSA, Web Development(Frontend). <br/><br/>
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)<br/><br/>
 
+<!--SPRX77-->
 
 # 👩‍💼 My Social Media 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sakshii_biranje/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sakshi_biranje_1) 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/SakshiBiranje)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@not_yet_0001)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-biranje-09565822b/)
 <br/><br/> 
+<!--SPRX77-->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SakshiBiranje&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -61,6 +70,7 @@ C, C++, JAVA, Python, OOP, DSA, Web Development(Frontend). <br/><br/>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SakshiBiranje&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<!--SPRX77-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SakshiBiranje&icon=0&color=0)](https://visitcount.itsvg.in)
